@@ -1,0 +1,17 @@
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.dbmdl
+*.sdf
+
+# Derleme Çýktýlarý
+bin/
+obj/
+
+# Log Dosyalarý
+*.log
+
+# Diðer
+*.vsix
